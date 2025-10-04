@@ -6,6 +6,6 @@ This assignment should be done in the following order:
 
 Your deliverables for this homework are:
 
-- [] Both Part 1 and Part 2 Assignments
-- [] Kaggle submission and writeup (more details on NMEP website!)
-- [] Github repo with all of your code! You need to first fork this repo and clone it on honeydew. Then include the link to your fork in the Part 2 Gradescope assignment. If you would like to make your repo private, please DM us and we'll send you the GitHub usernames to add as collaborators.
+- Both Part 1 and Part 2 Assignments
+- Kaggle submission and writeup (more details on NMEP website!)
+- Github repo with all of your code! You need to first fork this repo and clone it on honeydew. Then include the link to your fork in the Part 2 Gradescope assignment. If you would like to make your repo private, please DM us and we'll send you the GitHub usernames to add as collaborators.
